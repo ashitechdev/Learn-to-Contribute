@@ -33,6 +33,11 @@ List<Contributor> contributors = [
       name: "yo",
       instagram: 'instagram',
       message: "This is a random example with no gradient colors passed"),
-
+  Contributor(
+    name: 'Sai Vishnu',
+    instagram: '_sai.vishnu_',
+    gradientColors: [Colors.grey, Colors.amber],
+    message: 'Flutter your way to the top.'
+  ),
   // TODO 2: Add your contribution details here above this line
 ];
