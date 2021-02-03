@@ -39,5 +39,11 @@ List<Contributor> contributors = [
     gradientColors: [Colors.grey, Colors.amber],
     message: 'Flutter your way to the top.'
   ),
+  Contributor(
+    name: 'WASSSUP !?',
+    instagram: 'insta!!',
+    gradientColors: [Colors.green, Colors.white],
+    message: 'Thank you for this. Seriously !!'
+  ),
   // TODO 2: Add your contribution details here above this line
 ];
